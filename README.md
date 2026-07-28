@@ -11,6 +11,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -26,6 +27,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0209-minimum-size-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -47,4 +49,12 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
