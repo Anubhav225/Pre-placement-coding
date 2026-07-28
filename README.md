@@ -14,6 +14,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0977-squares-of-a-sorted-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhav225/Pre-placement-coding/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0209-minimum-size-subarray-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhav225/Pre-placement-coding/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -65,6 +67,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhav225/Pre-placement-coding/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
