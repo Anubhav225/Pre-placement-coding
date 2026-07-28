@@ -13,6 +13,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0042-trapping-rain-water](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +35,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | ------- |
 | [0015-3sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0018-4sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
