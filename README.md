@@ -25,6 +25,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anubhav225/Pre-placement-coding/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anubhav225/Pre-placement-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhav225/Pre-placement-coding/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -97,6 +98,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0724-find-pivot-index](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anubhav225/Pre-placement-coding/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anubhav225/Pre-placement-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
