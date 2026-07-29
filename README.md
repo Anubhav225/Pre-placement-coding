@@ -15,6 +15,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0904-fruit-into-baskets) |
@@ -81,6 +82,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anubhav225/Pre-placement-coding/tree/master/1004-max-consecutive-ones-iii) |
@@ -90,6 +92,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0242-valid-anagram) |
+| [0523-continuous-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0904-fruit-into-baskets) |
@@ -105,4 +108,8 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
