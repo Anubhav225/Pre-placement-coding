@@ -17,6 +17,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0209-minimum-size-subarray-sum) |
@@ -74,6 +75,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0055-jump-game](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0135-candy) |
 ## Dynamic Programming
 |  |
 | ------- |
