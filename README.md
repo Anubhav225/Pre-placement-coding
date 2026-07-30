@@ -10,6 +10,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0018-4sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0209-minimum-size-subarray-sum) |
@@ -67,6 +68,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -137,4 +139,8 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0528-random-pick-with-weight) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
