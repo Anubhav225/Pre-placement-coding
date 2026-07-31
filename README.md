@@ -49,6 +49,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0135-candy) |
+| [0763-partition-labels](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0763-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +134,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0525-contiguous-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anubhav225/Pre-placement-coding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -143,6 +146,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0076-minimum-window-substring](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0763-partition-labels) |
 ## Design
 |  |
 | ------- |
