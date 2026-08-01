@@ -26,6 +26,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0238-product-of-array-except-self](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0303-range-sum-query-immutable) |
+| [0435-non-overlapping-intervals](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0525-contiguous-array) |
@@ -71,6 +72,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0056-merge-intervals](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -82,6 +84,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0763-partition-labels](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0763-partition-labels) |
 ## Dynamic Programming
@@ -94,6 +97,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
