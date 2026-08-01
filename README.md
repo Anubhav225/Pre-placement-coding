@@ -30,6 +30,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0238-product-of-array-except-self](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0303-range-sum-query-immutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0523-continuous-subarray-sum) |
@@ -66,6 +67,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0209-minimum-size-subarray-sum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0528-random-pick-with-weight](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anubhav225/Pre-placement-coding/tree/master/1004-max-consecutive-ones-iii) |
@@ -185,6 +187,7 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -193,4 +196,20 @@ LEETCODE AND OTHER PRACTICE SOLUTIONS
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
