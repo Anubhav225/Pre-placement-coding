@@ -33,6 +33,7 @@ Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https:/
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -41,4 +42,8 @@ Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https:/
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
