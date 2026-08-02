@@ -22,6 +22,7 @@ Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https:/
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -30,9 +31,14 @@ Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https:/
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0049-group-anagrams) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anubhav225/Pre-placement-coding/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
